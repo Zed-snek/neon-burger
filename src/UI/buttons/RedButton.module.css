@@ -1,0 +1,7 @@
+.main {
+    color: #F75435;
+}
+
+.main:active {
+    border-color: #F75435;
+}

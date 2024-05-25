@@ -1,0 +1,20 @@
+.main {
+    text-decoration: none;
+    font-family: Arial, serif;
+    font-size: 22px;
+    padding: 4px 10px;
+    border-radius: 3px;
+    color: #fdb235;
+}
+
+.main:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+}
+
+.main:active {
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+.visited {
+    background-color: rgba(255, 255, 255, 0.08);
+}

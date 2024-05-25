@@ -1,0 +1,17 @@
+body {
+    background: #1c1c28;
+    color: #ebebf0;
+}
+
+* {
+    margin: 0;
+    transition: all 0.12s;
+    word-break: break-word;
+}
+
+.App {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

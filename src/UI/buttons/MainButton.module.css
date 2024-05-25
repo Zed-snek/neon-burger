@@ -1,0 +1,16 @@
+.main {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid #5d5d5d;
+    border-radius: 3px;
+    font-size: 17px;
+    color: #4fbfc3;
+}
+
+.main:hover {
+    background: rgba(255, 255, 255, 0.16);
+}
+
+.main:active {
+    border-color: #4fbfc3;
+}
+

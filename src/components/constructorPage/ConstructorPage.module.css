@@ -1,0 +1,36 @@
+.burger {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.componentsList {
+    display: flex;
+    justify-content: space-between;
+}
+
+.component {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.buttons button {
+    flex: 1;
+}
+
+.burgerInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: 600;
+}

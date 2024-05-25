@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.imgDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.imgDiv img {
+    max-width: 80%;
+    border-radius: 5px;
+}
+
+.mapSection {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.mapImgDiv {
+    flex: 3;
+}
+
+.mapImgDiv img {
+    max-width: 100%;
+}
+
+.mapInfoDiv {
+    flex: 2;
+}

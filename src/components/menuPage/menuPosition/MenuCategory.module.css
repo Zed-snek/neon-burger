@@ -1,0 +1,12 @@
+.title {
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.positions {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
